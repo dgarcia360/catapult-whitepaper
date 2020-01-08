@@ -9,11 +9,14 @@ A new technology can transform society, but when the technology is in its infanc
 Network-wide settings, specified in \nemsetting{network}{network}, must be the same for all nodes in a network.
 In contrast, node-specific settings can vary across all nodes in the same network, and are located in \nemsetting{node}{node}.
 
+Opposed to other crypto currencies that use turing complete languages to implement smart contracts, \codenamespace has a \textit{plugin / extension} approach.
+This not only allows to extend the abilities of the server by creating new \textit{plugins / extension}, but also preserves the high throughput that \codenamespace was designed for.
+
 \subsection{Transaction Plugins}
 
 All nodes in a network must support the same types of transactions and process them in exactly the same manner so that all nodes can agree on the global blockchain state.
 The network requires each node to load a set of \textit{transaction plugins}, and this set determines the kinds of transactions the network supports.
-This set is determined by the presence of \nemsetting{network}{plugin*} sections in the configuration.
+This set is determined by the presence of \nemsetting{network}{plugin*} sections in the \textit{network} configuration.
 Any changes, additions or deletions of these plugins must be coordinated and accepted by all network nodes.
 If only a subset of nodes agree to these modifications, those nodes will be on a fork.
 All built-in \codenamespace transactions are built using this plugin model in order to validate its extensibility.
@@ -100,7 +103,8 @@ In addition to the above, extensions can configure the node in more intricate wa
 For example, an extension can register a custom network time supplier.
 In fact, there is a specialized extension that sets a time supplier based on algorithms described in \nemref{sec:timesync}.
 This is an example of the high levels of customization allowed by this extension model.
-For understanding the full range of extensibility allowed by extensions, please refer to the project code or developer documentation.
+For understanding the full range of extensibility allowed by extensions, please refer to the project code or developer documentation\footnote{
+See \url{nemtech.github.io}}.
 
 \subsection{Server}
 
