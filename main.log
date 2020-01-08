@@ -1,0 +1,2891 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.6)  8 JAN 2020 12:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(./main.tex
+LaTeX2e <2019-10-01> patch level 3
+(/tmp/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+(/tmp/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./header/deps.tex
+(/tmp/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/tmp/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/tmp/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/tmp/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/tmp/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+(/tmp/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/tmp/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/tmp/texlive/texmf-dist/tex/latex/bytefield/bytefield.sty
+Package: bytefield 2017/09/15 v2.4 Network protocol diagrams
+
+(/tmp/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count100
+\calc@Bcount=\count101
+\calc@Adimen=\dimen112
+\calc@Bdimen=\dimen113
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count102
+\calc@Cskip=\skip48
+)
+(/tmp/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+\bytefield@height=\skip49
+\bytefield@height@increment=\skip50
+\entire@bytefield@picture=\box29
+\bf@bitwidth=\skip51
+\bf@bitheight=\skip52
+\units@wide=\skip53
+\units@tall=\skip54
+\units@high=\skip55
+\header@xpos=\skip56
+\c@header@val=\count103
+\c@max@header@val=\count104
+\curly@box=\box30
+\wordlabelr@start=\skip57
+\wordlabelr@end=\skip58
+\wordlabell@start=\skip59
+\wordlabell@end=\skip60
+\total@lbox@width=\skip61
+\label@box@width=\skip62
+\label@box@height=\skip63
+\word@label@box=\box31
+)
+(/tmp/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip64
+\f@nch@O@elh=\skip65
+\f@nch@O@erh=\skip66
+\f@nch@O@olh=\skip67
+\f@nch@O@orh=\skip68
+\f@nch@O@elf=\skip69
+\f@nch@O@erf=\skip70
+\f@nch@O@olf=\skip71
+\f@nch@O@orf=\skip72
+)
+(/tmp/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/tmp/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/tmp/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks20
+)
+(/tmp/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count108
+\float@exts=\toks21
+\float@box=\box32
+\@float@everytoks=\toks22
+\@floatcapt=\box33
+)
+(/tmp/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2019/11/10 v7.00c Hypertext links for LaTeX
+
+(/tmp/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/tmp/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/tmp/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/tmp/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/tmp/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/tmp/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/tmp/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2019/12/15 v1.9 Color options for hyperref/bookmark (HO)
+
+(/tmp/texlive/texmf-dist/tex/latex/hycolor/xcolor-patch.sty
+Package: xcolor-patch 2019/12/15 xcolor patch
+
+(/tmp/texlive/texmf-dist/tex/latex/oberdiek/hopatch.sty
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+)))
+(/tmp/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/tmp/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/tmp/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen122
+\Hy@linkcounter=\count109
+\Hy@pagecounter=\count110
+
+(/tmp/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2019/11/10 v7.00c Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/tmp/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/tmp/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count111
+
+(/tmp/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4788.
+\c@Hy@tempcnt=\count112
+
+(/tmp/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5147.
+\XeTeXLinkMargin=\dimen123
+
+(/tmp/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/tmp/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count113
+\Field@Width=\dimen124
+\Fld@charsize=\dimen125
+Package hyperref Info: Hyper figures OFF on input line 6418.
+Package hyperref Info: Link nesting OFF on input line 6423.
+Package hyperref Info: Hyper index ON on input line 6426.
+Package hyperref Info: backreferencing OFF on input line 6433.
+Package hyperref Info: Link coloring OFF on input line 6438.
+Package hyperref Info: Link coloring with OCG OFF on input line 6443.
+Package hyperref Info: PDF/A mode OFF on input line 6448.
+LaTeX Info: Redefining \ref on input line 6488.
+LaTeX Info: Redefining \pageref on input line 6492.
+
+(/tmp/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count114
+\c@Item=\count115
+\c@Hfootnote=\count116
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/tmp/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2019/11/10 v7.00c Hyperref driver for pdfTeX
+
+(/tmp/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count117
+\c@bookmark@seq@number=\count118
+
+(/tmp/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/tmp/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip73
+)
+(/tmp/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/tmp/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2019-04-06 v2.22 (Daniel Flipo)
+
+(/tmp/texlive/texmf-dist/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count119
+)
+\c@DefaultLines=\count120
+\c@DefaultDepth=\count121
+\DefaultFindent=\dimen126
+\DefaultNindent=\dimen127
+\DefaultSlope=\dimen128
+\DiscardVskip=\dimen129
+\L@lbox=\box34
+\L@tbox=\box35
+\c@L@lines=\count122
+\c@L@depth=\count123
+\L@Pindent=\dimen130
+\L@Findent=\dimen131
+\L@Nindent=\dimen132
+\L@lraise=\dimen133
+\L@first=\dimen134
+\L@next=\dimen135
+\L@slope=\dimen136
+\L@height=\dimen137
+\L@novskip=\dimen138
+\L@target@ht=\dimen139
+\L@target@dp=\dimen140
+\L@target@tht=\dimen141
+\LettrineWidth=\dimen142
+\LettrineHeight=\dimen143
+\LettrineDepth=\dimen144
+\Llist@everypar=\toks23
+
+Loading lettrine.cfg
+(/tmp/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
+(/tmp/texlive/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/tmp/texlive/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(/tmp/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen145
+\ar@mcellbox=\box36
+\extrarowheight=\dimen146
+\NC@list=\toks24
+\extratabsurround=\skip74
+\backup@length=\skip75
+\ar@cellbox=\box37
+)
+\rotheadsize=\dimen147
+\c@nlinenum=\count124
+\TeXr@lab=\toks25
+)
+(/tmp/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/tmp/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks26
+\MT@count=\count125
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen148
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count126
+
+(/tmp/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip76
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/tmp/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+(/tmp/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/tmp/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/03 v1.3b Sub-captions (AR)
+
+(/tmp/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/tmp/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen149
+\captionmargin@=\dimen150
+\captionwidth=\dimen151
+\caption@tempdima=\dimen152
+\caption@indent=\dimen153
+\caption@parindent=\dimen154
+\caption@hangindent=\dimen155
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count127
+\c@continuedfloat=\count128
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count129
+\c@subtable=\count130
+)
+(/tmp/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box38
+\beforetitleunit=\skip77
+\aftertitleunit=\skip78
+\ttl@plus=\dimen156
+\ttl@minus=\dimen157
+\ttl@toksa=\toks27
+\titlewidth=\dimen158
+\titlewidthlast=\dimen159
+\titlewidthfirst=\dimen160
+)
+(/tmp/texlive/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip79
+\thanksmargin=\skip80
+\droptitle=\skip81
+)
+(/tmp/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/tmp/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/tmp/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/tmp/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/tmp/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+
+(/tmp/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count131
+)
+(/tmp/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count132
+
+(/tmp/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/tmp/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count133
+\c@listtotal=\count134
+\c@listcount=\count135
+\c@liststart=\count136
+\c@liststop=\count137
+\c@citecount=\count138
+\c@citetotal=\count139
+\c@multicitecount=\count140
+\c@multicitetotal=\count141
+\c@instcount=\count142
+\c@maxnames=\count143
+\c@minnames=\count144
+\c@maxitems=\count145
+\c@minitems=\count146
+\c@citecounter=\count147
+\c@maxcitecounter=\count148
+\c@savedcitecounter=\count149
+\c@uniquelist=\count150
+\c@uniquename=\count151
+\c@refsection=\count152
+\c@refsegment=\count153
+\c@maxextratitle=\count154
+\c@maxextratitleyear=\count155
+\c@maxextraname=\count156
+\c@maxextradate=\count157
+\c@maxextraalpha=\count158
+\c@abbrvpenalty=\count159
+\c@highnamepenalty=\count160
+\c@lownamepenalty=\count161
+\c@maxparens=\count162
+\c@parenlevel=\count163
+\blx@tempcnta=\count164
+\blx@tempcntb=\count165
+\blx@tempcntc=\count166
+\blx@maxsection=\count167
+\blx@maxsegment@0=\count168
+\blx@notetype=\count169
+\blx@parenlevel@text=\count170
+\blx@parenlevel@foot=\count171
+\blx@sectionciteorder@0=\count172
+\blx@entrysetcounter=\count173
+\labelnumberwidth=\skip82
+\labelalphawidth=\skip83
+\biblabelsep=\skip84
+\bibitemsep=\skip85
+\bibnamesep=\skip86
+\bibinitsep=\skip87
+\bibparsep=\skip88
+\bibhang=\skip89
+\blx@bcfin=\read1
+\blx@bcfout=\write3
+\blx@langwohyphens=\language3
+\c@mincomprange=\count174
+\c@maxcomprange=\count175
+\c@mincompwidth=\count176
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/tmp/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'alphabetic.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count177
+\c@savedafterword=\count178
+\c@annotator=\count179
+\c@savedannotator=\count180
+\c@author=\count181
+\c@savedauthor=\count182
+\c@bookauthor=\count183
+\c@savedbookauthor=\count184
+\c@commentator=\count185
+\c@savedcommentator=\count186
+\c@editor=\count187
+\c@savededitor=\count188
+\c@editora=\count189
+\c@savededitora=\count190
+\c@editorb=\count191
+\c@savededitorb=\count192
+\c@editorc=\count193
+\c@savededitorc=\count194
+\c@foreword=\count195
+\c@savedforeword=\count196
+\c@holder=\count197
+\c@savedholder=\count198
+\c@introduction=\count199
+\c@savedintroduction=\count266
+\c@namea=\count267
+\c@savednamea=\count268
+\c@nameb=\count269
+\c@savednameb=\count270
+\c@namec=\count271
+\c@savednamec=\count272
+\c@translator=\count273
+\c@savedtranslator=\count274
+\c@shortauthor=\count275
+\c@savedshortauthor=\count276
+\c@shorteditor=\count277
+\c@savedshorteditor=\count278
+\c@labelname=\count279
+\c@savedlabelname=\count280
+\c@institution=\count281
+\c@savedinstitution=\count282
+\c@lista=\count283
+\c@savedlista=\count284
+\c@listb=\count285
+\c@savedlistb=\count286
+\c@listc=\count287
+\c@savedlistc=\count288
+\c@listd=\count289
+\c@savedlistd=\count290
+\c@liste=\count291
+\c@savedliste=\count292
+\c@listf=\count293
+\c@savedlistf=\count294
+\c@location=\count295
+\c@savedlocation=\count296
+\c@organization=\count297
+\c@savedorganization=\count298
+\c@origlocation=\count299
+\c@savedoriglocation=\count300
+\c@origpublisher=\count301
+\c@savedorigpublisher=\count302
+\c@publisher=\count303
+\c@savedpublisher=\count304
+\c@language=\count305
+\c@savedlanguage=\count306
+\c@origlanguage=\count307
+\c@savedoriglanguage=\count308
+\c@pageref=\count309
+\c@savedpageref=\count310
+\shorthandwidth=\skip90
+\shortjournalwidth=\skip91
+\shortserieswidth=\skip92
+\shorttitlewidth=\skip93
+\shortauthorwidth=\skip94
+\shorteditorwidth=\skip95
+\locallabelnumberwidth=\skip96
+\locallabelalphawidth=\skip97
+\localshorthandwidth=\skip98
+\localshortjournalwidth=\skip99
+\localshortserieswidth=\skip100
+\localshorttitlewidth=\skip101
+\localshortauthorwidth=\skip102
+\localshorteditorwidth=\skip103
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/tmp/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/tmp/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count311
+\c@textcitetotal=\count312
+\c@textcitemaxnames=\count313
+\c@biburlbigbreakpenalty=\count314
+\c@biburlbreakpenalty=\count315
+\c@biburlnumpenalty=\count316
+\c@biburlucpenalty=\count317
+\c@biburllcpenalty=\count318
+\biburlbigskip=\muskip12
+\biburlnumskip=\muskip13
+\biburlucskip=\muskip14
+\biburllcskip=\muskip15
+\c@smartand=\count319
+)
+Package biblatex Info: Trying to load bibliography style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.bbx' found.
+
+(/tmp/texlive/texmf-dist/tex/latex/biblatex/bbx/alphabetic.bbx
+File: alphabetic.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/tmp/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count320
+\c@bbx:relatedtotal=\count321
+))
+Package biblatex Info: Trying to load citation style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.cbx' found.
+
+(/tmp/texlive/texmf-dist/tex/latex/biblatex/cbx/alphabetic.cbx
+File: alphabetic.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/tmp/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/tmp/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count322
+\lst@gtempboxa=\box39
+\lst@token=\toks28
+\lst@length=\count323
+\lst@currlwidth=\dimen161
+\lst@column=\count324
+\lst@pos=\count325
+\lst@lostspace=\dimen162
+\lst@width=\dimen163
+\lst@newlines=\count326
+\lst@lineno=\count327
+\lst@maxwidth=\dimen164
+
+(/tmp/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count328
+\lst@skipnumbers=\count329
+\lst@framebox=\box40
+)
+(/tmp/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(/tmp/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+(/tmp/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+(/tmp/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+)
+(/tmp/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
+
+(/tmp/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/tmp/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+(/tmp/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/tmp/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+)
+(/tmp/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/tmp/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/tmp/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/tmp/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen167
+\pgfutil@tempdimb=\dimen168
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box41
+
+(/tmp/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/12/21 v3.1.5a (3.1.5a)
+))
+Package: pgf 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/tmp/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/tmp/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen169
+\pgf@y=\dimen170
+\pgf@xa=\dimen171
+\pgf@ya=\dimen172
+\pgf@xb=\dimen173
+\pgf@yb=\dimen174
+\pgf@xc=\dimen175
+\pgf@yc=\dimen176
+\pgf@xd=\dimen177
+\pgf@yd=\dimen178
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count330
+\c@pgf@countb=\count331
+\c@pgf@countc=\count332
+\c@pgf@countd=\count333
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count334
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/12/21 v3.1.5a (3.1.5a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2019/12/21 v3.1.5a (3.1.5a)
+)))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfsyssoftpath@smallbuffer@items=\count335
+\pgfsyssoftpath@bigbuffer@items=\count336
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen179
+\pgfmath@count=\count337
+\pgfmath@box=\box42
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.co
+de.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.
+tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmeti
+cs.code.tex)))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count338
+))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@picminx=\dimen180
+\pgf@picmaxx=\dimen181
+\pgf@picminy=\dimen182
+\pgf@picmaxy=\dimen183
+\pgf@pathminx=\dimen184
+\pgf@pathmaxx=\dimen185
+\pgf@pathminy=\dimen186
+\pgf@pathmaxy=\dimen187
+\pgf@xx=\dimen188
+\pgf@xy=\dimen189
+\pgf@yx=\dimen190
+\pgf@yy=\dimen191
+\pgf@zx=\dimen192
+\pgf@zy=\dimen193
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.t
+ex
+File: pgfcorepathconstruct.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@path@lastx=\dimen194
+\pgf@path@lasty=\dimen195
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@shorten@end@additional=\dimen196
+\pgf@shorten@start@additional=\dimen197
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfpic=\box43
+\pgf@hbox=\box44
+\pgf@layerbox@main=\box45
+\pgf@picture@serial@count=\count339
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.te
+x
+File: pgfcoregraphicstate.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgflinewidth=\dimen198
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code
+.tex
+File: pgfcoretransformations.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@pt@x=\dimen199
+\pgf@pt@y=\dimen256
+\pgf@pt@temp=\dimen257
+) (/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+) (/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.
+tex
+File: pgfcorepathprocessing.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+) (/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfarrowsep=\dimen258
+) (/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@max=\dimen259
+\pgf@sys@shading@range@num=\count340
+\pgf@shadingcount=\count341
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfexternal@startupbox=\box46
+))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.te
+x
+File: pgfcoretransparency.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+) (/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+) (/tmp/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfnodeparttextbox=\box47
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/tmp/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@nodesepstart=\dimen260
+\pgf@nodesepend=\dimen261
+)
+(/tmp/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2019/12/21 v3.1.5a (3.1.5a)
+)) (/tmp/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/tmp/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/tmp/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/tmp/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen262
+\pgffor@skip=\dimen263
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.
+tex
+File: pgflibraryplothandlers.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@plot@mark@count=\count342
+\pgfplotmarksize=\dimen264
+)
+\tikz@lastx=\dimen265
+\tikz@lasty=\dimen266
+\tikz@lastxsaved=\dimen267
+\tikz@lastysaved=\dimen268
+\tikz@lastmovetox=\dimen269
+\tikz@lastmovetoy=\dimen270
+\tikzleveldistance=\dimen271
+\tikzsiblingdistance=\dimen272
+\tikz@figbox=\box48
+\tikz@figbox@bg=\box49
+\tikz@tempbox=\box50
+\tikz@tempbox@bg=\box51
+\tikztreelevel=\count343
+\tikznumberofchildren=\count344
+\tikznumberofcurrentchild=\count345
+\tikz@fig@count=\count346
+ (/tmp/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfmatrixcurrentrow=\count347
+\pgfmatrixcurrentcolumn=\count348
+\pgf@matrix@numberofcolumns=\count349
+)
+\tikz@expandcount=\count350
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+rytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)))
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks41
+\t@pgfplots@tokb=\toks42
+\t@pgfplots@tokc=\toks43
+\pgfplots@tmpa=\dimen273
+\c@pgfplots@coordindex=\count351
+\c@pgfplots@scanlineindex=\count352
+
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex))
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp
+_loader.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex))
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructu
+re.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructu
+reext.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.
+tex
+\c@pgfplotsarray@tmp=\count353
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code
+.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code
+.tex
+\c@pgfplotstable@counta=\count354
+\t@pgfplotstable@a=\toks44
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.
+tex) (/tmp/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex
+))
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshadi
+ng.code.tex
+\c@pgfplotslibrarysurf@no=\count355
+
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshadin
+g.pgfsys-pdftex.def)))
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex)))
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+rydecorations.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen274
+\pgfdecoratedremainingdistance=\dimen275
+\pgfdecoratedinputsegmentcompleteddistance=\dimen276
+\pgfdecoratedinputsegmentremainingdistance=\dimen277
+\pgf@decorate@distancetomove=\dimen278
+\pgf@decorate@repeatstate=\count356
+\pgfdecorationsegmentamplitude=\dimen279
+\pgfdecorationsegmentlength=\dimen280
+)
+\tikz@lib@dec@box=\box52
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+rydecorations.pathmorphing.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecora
+tions.pathmorphing.code.tex))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+rydecorations.pathreplacing.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecora
+tions.pathreplacing.code.tex))
+\pgfplots@numplots=\count357
+\pgfplots@xmin@reg=\dimen281
+\pgfplots@xmax@reg=\dimen282
+\pgfplots@ymin@reg=\dimen283
+\pgfplots@ymax@reg=\dimen284
+\pgfplots@zmin@reg=\dimen285
+\pgfplots@zmax@reg=\dimen286
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+ryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+ryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+ryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geom
+etric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+ryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc
+.code.tex
+File: pgflibraryshapes.misc.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+ryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symb
+ols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+ryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arro
+ws.code.tex
+File: pgflibraryshapes.arrows.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+ryshapes.callouts.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.call
+outs.code.tex))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+ryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.mult
+ipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfnodepartlowerbox=\box53
+\pgfnodeparttwobox=\box54
+\pgfnodepartthreebox=\box55
+\pgfnodepartfourbox=\box56
+\pgfnodeparttwentybox=\box57
+\pgfnodepartnineteenbox=\box58
+\pgfnodeparteighteenbox=\box59
+\pgfnodepartseventeenbox=\box60
+\pgfnodepartsixteenbox=\box61
+\pgfnodepartfifteenbox=\box62
+\pgfnodepartfourteenbox=\box63
+\pgfnodepartthirteenbox=\box64
+\pgfnodeparttwelvebox=\box65
+\pgfnodepartelevenbox=\box66
+\pgfnodeparttenbox=\box67
+\pgfnodepartninebox=\box68
+\pgfnodeparteightbox=\box69
+\pgfnodepartsevenbox=\box70
+\pgfnodepartsixbox=\box71
+\pgfnodepartfivebox=\box72
+)))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+ryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\arrowsize=\dimen287
+))
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+rycalc.code.tex
+File: tikzlibrarycalc.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+ryfit.code.tex
+File: tikzlibraryfit.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+rypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/tmp/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibra
+rydecorations.markings.code.tex
+(/tmp/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecora
+tions.markings.code.tex))) (./header/style.tex
+Package hyperref Info: Option `colorlinks' set `true' on input line 27.
+) (./header/title.tex)
+(./header/commands.tex)
+\@indexfile=\write5
+\openout5 = `main.idx'.
+
+
+Writing index file main.idx
+\@quotelevel=\count358
+\@quotereset=\count359
+(../_build/main.aux (../_build/preface.aux)
+(../_build/chapters/introduction.aux) (../_build/chapters/system.aux)
+(../_build/chapters/cryptography.aux) (../_build/chapters/trees.aux)
+(../_build/chapters/accounts.aux) (../_build/chapters/transactions.aux)
+(../_build/chapters/blocks.aux) (../_build/chapters/blockchain.aux)
+(../_build/chapters/disruptor.aux) (../_build/chapters/unconfirmed.aux)
+(../_build/chapters/partial.aux) (../_build/chapters/network.aux)
+(../_build/chapters/reputation.aux) (../_build/chapters/consensus.aux)
+(../_build/chapters/timesync.aux) (../_build/chapters/messaging.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+0.
+
+(/tmp/texlive/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=591.5302pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box73
+Package hyperref Info: Link coloring ON on input line 10.
+(/tmp/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/tmp/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/tmp/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count360
+)
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
+
+(../_build/main.out) (../_build/main.out)
+\@outlinefile=\write6
+\openout6 = `main.out'.
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 10.
+LaTeX Info: Redefining \microtypecontext on input line 10.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 10.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/tmp/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/tmp/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count361
+\scratchdimen=\dimen288
+\scratchbox=\box74
+\nofMPsegments=\count362
+\nofMParguments=\count363
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count364
+\MPscratchDim=\dimen289
+\MPnumerator=\count365
+\makeMPintoPDFobject=\count366
+\everyMPtoPDFconversion=\toks46
+) (/tmp/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/tmp/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/tmp/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+
+(../_build/main.bbl)
+Package biblatex Info: Reference section=0 on input line 10.
+Package biblatex Info: Reference segment=0 on input line 10.
+\c@lstlisting=\count367
+ ABD: EveryShipout initializing macros
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.16}).
+
+<images/NEM_wankel_round.pdf, id=344, 123.38898pt x 122.0279pt>
+File: images/NEM_wankel_round.pdf Graphic file (type pdf)
+<use images/NEM_wankel_round.pdf>
+Package pdftex.def Info: images/NEM_wankel_round.pdf  used on input line 12.
+(pdftex.def)             Requested size: 123.38866pt x 122.02759pt.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+2.
+(/tmp/texlive/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+12.
+
+(/tmp/texlive/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+12.
+
+(/tmp/texlive/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 12.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 12.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+
+
+(/tmp/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/tmp/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+
+
+(/tmp/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/tmp/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) [1
+
+{/tmp/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/NEM_wanke
+l_round.pdf>]
+(../_build/main.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 7.
+ [1] [2])
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+ [3]
+\openout2 = `preface.aux'.
+
+ (./preface.tex
+LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-OsF
+ on input line 6.
+
+(/tmp/texlive/texmf-dist/tex/latex/libertine/OT1LinuxLibertineT-OsF.fd
+File: OT1LinuxLibertineT-OsF.fd 2017/03/20 (autoinst) Font definitions for OT1/
+LinuxLibertineT-OsF.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxLibertineT-OsF' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont N);
+(lettrine.sty)             reported on input line 8.
+)
+[4
+
+]
+\openout2 = `chapters/introduction.aux'.
+
+ (./chapters/introduction.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont T);
+(lettrine.sty)             reported on input line 11.
+LaTeX Font Info:    Trying to load font information for OMS+lmr on input line 1
+9.
+
+(/tmp/texlive/texmf-dist/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 19.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 
+      [1
+
+
+]) [2]
+\openout2 = `chapters/system.aux'.
+
+ (./chapters/system.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont C);
+(lettrine.sty)             reported on input line 8.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 22.
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
+24.
+
+(/tmp/texlive/texmf-dist/tex/latex/lm/ot1lmtt.fd
+File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [3
+
+
+]
+LaTeX Font Info:    Font shape `OMS/lmr/m/it' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 66.
+
+Overfull \hbox (26.41208pt too wide) in paragraph at lines 75--76
+[][][][][][][][][][][][][] 
+ []
+
+[4] [5]
+Overfull \hbox (11.74666pt too wide) in paragraph at lines 126--131
+[]\OT1/lmtt/m/n/12 state \OT1/lmr/m/n/12 (-20) - Cat-a-pult stores its pro-pri-
+etary stor-age files in this di-rec-tory. \OT1/lmtt/m/n/12 supplemental.dat
+ []
+
+
+Overfull \hbox (3.14749pt too wide) in paragraph at lines 126--131
+\OT1/lmr/m/n/12 (-20) and files end-ing with []\OT1/lmtt/m/n/12 summary.dat \OT
+1/lmr/m/n/12 (-20) store sum-ma-rized data. Files end-ing in \OT1/lmtt/m/n/12 C
+ache.dat
+ []
+
+
+Overfull \hbox (13.34293pt too wide) in paragraph at lines 144--147
+\OT1/lmr/m/n/12 (-20) The server can run with or with-out a cache database. Whe
+n  \OT1/lmr/m/it/12 (-20) node:enableCacheDatabaseStorage
+ []
+
+[6] [7]) [8]
+\openout2 = `chapters/cryptography.aux'.
+
+ (./chapters/cryptography.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont B);
+(lettrine.sty)             reported on input line 8.
+ [9
+
+
+] [10]) [11]
+\openout2 = `chapters/trees.aux'.
+
+ (./chapters/trees.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont C);
+(lettrine.sty)             reported on input line 21.
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ] in font nullfont!
+
+[12
+
+
+] [13]
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ] in font nullfont!
+ [14] [15]
+Missing character: There is no ] in font nullfont!
+
+Overfull \hbox (5.9795pt too wide) in paragraph at lines 285--286
+[]\OT1/lmr/m/n/12 (-20) Calculate $\OML/lmm/m/it/12 H\OT1/lmr/m/n/12 (-20) (\OM
+L/lmm/m/it/12 Node[]\OT1/lmr/m/n/12 (-20) )$ and ver-ify that $\OML/lmm/m/it/12
+ Node[] \OT1/lmr/m/n/12 (-20) :: \OML/lmm/m/it/12 Link\OT1/lmr/m/n/12 (-20) [6]
+$ is equal to $\OML/lmm/m/it/12 H\OT1/lmr/m/n/12 (-20) (\OML/lmm/m/it/12 Node[]
+\OT1/lmr/m/n/12 (-20) )$. 
+ []
+
+[16]) [17]
+\openout2 = `chapters/accounts.aux'.
+
+ (./chapters/accounts.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont C);
+(lettrine.sty)             reported on input line 8.
+ [18
+
+
+] (./chapters/accounts_img1.tex)
+[19] [20]) [21]
+\openout2 = `chapters/transactions.aux'.
+
+ (./chapters/transactions.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont T);
+(lettrine.sty)             reported on input line 8.
+ [22
+
+
+]
+\curly@height=\dimen290
+\half@curly@height=\dimen291
+\curly@shift=\dimen292
+\height=\dimen293
+\depth=\dimen294
+\totalheight=\dimen295
+\width=\dimen296
+\height=\dimen297
+\depth=\dimen298
+\totalheight=\dimen299
+\width=\dimen300
+\starting@point=\dimen301
+\curly@height=\dimen302
+\half@curly@height=\dimen303
+\curly@shift=\dimen304
+\curly@height=\dimen305
+\half@curly@height=\dimen306
+\curly@shift=\dimen307
+\height=\dimen308
+\depth=\dimen309
+\totalheight=\dimen310
+\width=\dimen311
+\starting@point=\dimen312
+\curly@height=\dimen313
+\half@curly@height=\dimen314
+\curly@shift=\dimen315
+\height=\dimen316
+\depth=\dimen317
+\totalheight=\dimen318
+\width=\dimen319
+\curly@height=\dimen320
+\half@curly@height=\dimen321
+\curly@shift=\dimen322
+\height=\dimen323
+\depth=\dimen324
+\totalheight=\dimen325
+\width=\dimen326
+\starting@point=\dimen327
+\curly@height=\dimen328
+\half@curly@height=\dimen329
+\curly@shift=\dimen330
+\height=\dimen331
+\depth=\dimen332
+\totalheight=\dimen333
+\width=\dimen334
+\curly@height=\dimen335
+\half@curly@height=\dimen336
+\curly@shift=\dimen337
+\height=\dimen338
+\depth=\dimen339
+\totalheight=\dimen340
+\width=\dimen341
+\height=\dimen342
+\depth=\dimen343
+\totalheight=\dimen344
+\width=\dimen345
+\starting@point=\dimen346
+\curly@height=\dimen347
+\half@curly@height=\dimen348
+\curly@shift=\dimen349
+\curly@height=\dimen350
+\half@curly@height=\dimen351
+\curly@shift=\dimen352
+\height=\dimen353
+\depth=\dimen354
+\totalheight=\dimen355
+\width=\dimen356
+\height=\dimen357
+\depth=\dimen358
+\totalheight=\dimen359
+\width=\dimen360
+\starting@point=\dimen361
+\curly@height=\dimen362
+\half@curly@height=\dimen363
+\curly@shift=\dimen364
+\curly@height=\dimen365
+\half@curly@height=\dimen366
+\curly@shift=\dimen367
+\height=\dimen368
+\depth=\dimen369
+\totalheight=\dimen370
+\width=\dimen371
+\starting@point=\dimen372
+\curly@height=\dimen373
+\half@curly@height=\dimen374
+\curly@shift=\dimen375
+\curly@height=\dimen376
+\half@curly@height=\dimen377
+\curly@shift=\dimen378
+\height=\dimen379
+\depth=\dimen380
+\totalheight=\dimen381
+\width=\dimen382
+\starting@point=\dimen383
+\curly@height=\dimen384
+\half@curly@height=\dimen385
+\curly@shift=\dimen386
+\curly@height=\dimen387
+\half@curly@height=\dimen388
+\curly@shift=\dimen389
+\height=\dimen390
+\depth=\dimen391
+\totalheight=\dimen392
+\width=\dimen393
+\starting@point=\dimen394
+\curly@height=\dimen395
+\half@curly@height=\dimen396
+\curly@shift=\dimen397
+\height=\dimen398
+\depth=\dimen399
+\totalheight=\dimen400
+\width=\dimen401
+ [23]
+\curly@height=\dimen402
+\half@curly@height=\dimen403
+\curly@shift=\dimen404
+\height=\dimen405
+\depth=\dimen406
+\totalheight=\dimen407
+\width=\dimen408
+\height=\dimen409
+\depth=\dimen410
+\totalheight=\dimen411
+\width=\dimen412
+\starting@point=\dimen413
+\curly@height=\dimen414
+\half@curly@height=\dimen415
+\curly@shift=\dimen416
+\curly@height=\dimen417
+\half@curly@height=\dimen418
+\curly@shift=\dimen419
+\height=\dimen420
+\depth=\dimen421
+\totalheight=\dimen422
+\width=\dimen423
+\starting@point=\dimen424
+\curly@height=\dimen425
+\half@curly@height=\dimen426
+\curly@shift=\dimen427
+\height=\dimen428
+\depth=\dimen429
+\totalheight=\dimen430
+\width=\dimen431
+\curly@height=\dimen432
+\half@curly@height=\dimen433
+\curly@shift=\dimen434
+\height=\dimen435
+\depth=\dimen436
+\totalheight=\dimen437
+\width=\dimen438
+\starting@point=\dimen439
+\curly@height=\dimen440
+\half@curly@height=\dimen441
+\curly@shift=\dimen442
+\height=\dimen443
+\depth=\dimen444
+\totalheight=\dimen445
+\width=\dimen446
+\curly@height=\dimen447
+\half@curly@height=\dimen448
+\curly@shift=\dimen449
+\height=\dimen450
+\depth=\dimen451
+\totalheight=\dimen452
+\width=\dimen453
+\height=\dimen454
+\depth=\dimen455
+\totalheight=\dimen456
+\width=\dimen457
+\starting@point=\dimen458
+\curly@height=\dimen459
+\half@curly@height=\dimen460
+\curly@shift=\dimen461
+\curly@height=\dimen462
+\half@curly@height=\dimen463
+\curly@shift=\dimen464
+\height=\dimen465
+\depth=\dimen466
+\totalheight=\dimen467
+\width=\dimen468
+\height=\dimen469
+\depth=\dimen470
+\totalheight=\dimen471
+\width=\dimen472
+\starting@point=\dimen473
+\curly@height=\dimen474
+\half@curly@height=\dimen475
+\curly@shift=\dimen476
+\curly@height=\dimen477
+\half@curly@height=\dimen478
+\curly@shift=\dimen479
+\height=\dimen480
+\depth=\dimen481
+\totalheight=\dimen482
+\width=\dimen483
+\starting@point=\dimen484
+\curly@height=\dimen485
+\half@curly@height=\dimen486
+\curly@shift=\dimen487
+\curly@height=\dimen488
+\half@curly@height=\dimen489
+\curly@shift=\dimen490
+\height=\dimen491
+\depth=\dimen492
+\totalheight=\dimen493
+\width=\dimen494
+\starting@point=\dimen495
+\curly@height=\dimen496
+\half@curly@height=\dimen497
+\curly@shift=\dimen498
+\curly@height=\dimen499
+\half@curly@height=\dimen500
+\curly@shift=\dimen501
+\height=\dimen502
+\depth=\dimen503
+\totalheight=\dimen504
+\width=\dimen505
+\starting@point=\dimen506
+\curly@height=\dimen507
+\half@curly@height=\dimen508
+\curly@shift=\dimen509
+\curly@height=\dimen510
+\half@curly@height=\dimen511
+\curly@shift=\dimen512
+\height=\dimen513
+\depth=\dimen514
+\totalheight=\dimen515
+\width=\dimen516
+\height=\dimen517
+\depth=\dimen518
+\totalheight=\dimen519
+\width=\dimen520
+\starting@point=\dimen521
+\curly@height=\dimen522
+\half@curly@height=\dimen523
+\curly@shift=\dimen524
+\curly@height=\dimen525
+\half@curly@height=\dimen526
+\curly@shift=\dimen527
+\height=\dimen528
+\depth=\dimen529
+\totalheight=\dimen530
+\width=\dimen531
+\starting@point=\dimen532
+\curly@height=\dimen533
+\half@curly@height=\dimen534
+\curly@shift=\dimen535
+\height=\dimen536
+\depth=\dimen537
+\totalheight=\dimen538
+\width=\dimen539
+\curly@height=\dimen540
+\half@curly@height=\dimen541
+\curly@shift=\dimen542
+\height=\dimen543
+\depth=\dimen544
+\totalheight=\dimen545
+\width=\dimen546
+\starting@point=\dimen547
+\curly@height=\dimen548
+\half@curly@height=\dimen549
+\curly@shift=\dimen550
+\height=\dimen551
+\depth=\dimen552
+\totalheight=\dimen553
+\width=\dimen554
+ [24]
+\curly@height=\dimen555
+\half@curly@height=\dimen556
+\curly@shift=\dimen557
+\height=\dimen558
+\depth=\dimen559
+\totalheight=\dimen560
+\width=\dimen561
+\height=\dimen562
+\depth=\dimen563
+\totalheight=\dimen564
+\width=\dimen565
+\starting@point=\dimen566
+\curly@height=\dimen567
+\half@curly@height=\dimen568
+\curly@shift=\dimen569
+\curly@height=\dimen570
+\half@curly@height=\dimen571
+\curly@shift=\dimen572
+\height=\dimen573
+\depth=\dimen574
+\totalheight=\dimen575
+\width=\dimen576
+\starting@point=\dimen577
+\curly@height=\dimen578
+\half@curly@height=\dimen579
+\curly@shift=\dimen580
+\height=\dimen581
+\depth=\dimen582
+\totalheight=\dimen583
+\width=\dimen584
+\curly@height=\dimen585
+\half@curly@height=\dimen586
+\curly@shift=\dimen587
+\height=\dimen588
+\depth=\dimen589
+\totalheight=\dimen590
+\width=\dimen591
+\height=\dimen592
+\depth=\dimen593
+\totalheight=\dimen594
+\width=\dimen595
+\starting@point=\dimen596
+\curly@height=\dimen597
+\half@curly@height=\dimen598
+\curly@shift=\dimen599
+\curly@height=\dimen600
+\half@curly@height=\dimen601
+\curly@shift=\dimen602
+\height=\dimen603
+\depth=\dimen604
+\totalheight=\dimen605
+\width=\dimen606
+\height=\dimen607
+\depth=\dimen608
+\totalheight=\dimen609
+\width=\dimen610
+\starting@point=\dimen611
+\curly@height=\dimen612
+\half@curly@height=\dimen613
+\curly@shift=\dimen614
+\curly@height=\dimen615
+\half@curly@height=\dimen616
+\curly@shift=\dimen617
+\height=\dimen618
+\depth=\dimen619
+\totalheight=\dimen620
+\width=\dimen621
+\starting@point=\dimen622
+\curly@height=\dimen623
+\half@curly@height=\dimen624
+\curly@shift=\dimen625
+\height=\dimen626
+\depth=\dimen627
+\totalheight=\dimen628
+\width=\dimen629
+ [25]
+\curly@height=\dimen630
+\half@curly@height=\dimen631
+\curly@shift=\dimen632
+\height=\dimen633
+\depth=\dimen634
+\totalheight=\dimen635
+\width=\dimen636
+\starting@point=\dimen637
+\curly@height=\dimen638
+\half@curly@height=\dimen639
+\curly@shift=\dimen640
+\height=\dimen641
+\depth=\dimen642
+\totalheight=\dimen643
+\width=\dimen644
+\curly@height=\dimen645
+\half@curly@height=\dimen646
+\curly@shift=\dimen647
+\height=\dimen648
+\depth=\dimen649
+\totalheight=\dimen650
+\width=\dimen651
+\starting@point=\dimen652
+\curly@height=\dimen653
+\half@curly@height=\dimen654
+\curly@shift=\dimen655
+\height=\dimen656
+\depth=\dimen657
+\totalheight=\dimen658
+\width=\dimen659
+ [26]
+\curly@height=\dimen660
+\half@curly@height=\dimen661
+\curly@shift=\dimen662
+\height=\dimen663
+\depth=\dimen664
+\totalheight=\dimen665
+\width=\dimen666
+\height=\dimen667
+\depth=\dimen668
+\totalheight=\dimen669
+\width=\dimen670
+\starting@point=\dimen671
+\curly@height=\dimen672
+\half@curly@height=\dimen673
+\curly@shift=\dimen674
+\curly@height=\dimen675
+\half@curly@height=\dimen676
+\curly@shift=\dimen677
+\height=\dimen678
+\depth=\dimen679
+\totalheight=\dimen680
+\width=\dimen681
+\starting@point=\dimen682
+\curly@height=\dimen683
+\half@curly@height=\dimen684
+\curly@shift=\dimen685
+\height=\dimen686
+\depth=\dimen687
+\totalheight=\dimen688
+\width=\dimen689
+\curly@height=\dimen690
+\half@curly@height=\dimen691
+\curly@shift=\dimen692
+\height=\dimen693
+\depth=\dimen694
+\totalheight=\dimen695
+\width=\dimen696
+\starting@point=\dimen697
+\curly@height=\dimen698
+\half@curly@height=\dimen699
+\curly@shift=\dimen700
+\curly@height=\dimen701
+\half@curly@height=\dimen702
+\curly@shift=\dimen703
+\height=\dimen704
+\depth=\dimen705
+\totalheight=\dimen706
+\width=\dimen707
+\starting@point=\dimen708
+\curly@height=\dimen709
+\half@curly@height=\dimen710
+\curly@shift=\dimen711
+\height=\dimen712
+\depth=\dimen713
+\totalheight=\dimen714
+\width=\dimen715
+\curly@height=\dimen716
+\half@curly@height=\dimen717
+\curly@shift=\dimen718
+\height=\dimen719
+\depth=\dimen720
+\totalheight=\dimen721
+\width=\dimen722
+\starting@point=\dimen723
+\curly@height=\dimen724
+\half@curly@height=\dimen725
+\curly@shift=\dimen726
+\curly@height=\dimen727
+\half@curly@height=\dimen728
+\curly@shift=\dimen729
+\height=\dimen730
+\depth=\dimen731
+\totalheight=\dimen732
+\width=\dimen733
+\starting@point=\dimen734
+\curly@height=\dimen735
+\half@curly@height=\dimen736
+\curly@shift=\dimen737
+\height=\dimen738
+\depth=\dimen739
+\totalheight=\dimen740
+\width=\dimen741
+) [27]
+[28]
+\openout2 = `chapters/blocks.aux'.
+
+ (./chapters/blocks.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont C);
+(lettrine.sty)             reported on input line 8.
+\curly@height=\dimen742
+\half@curly@height=\dimen743
+\curly@shift=\dimen744
+\height=\dimen745
+\depth=\dimen746
+\totalheight=\dimen747
+\width=\dimen748
+\height=\dimen749
+\depth=\dimen750
+\totalheight=\dimen751
+\width=\dimen752
+\starting@point=\dimen753
+\curly@height=\dimen754
+\half@curly@height=\dimen755
+\curly@shift=\dimen756
+\curly@height=\dimen757
+\half@curly@height=\dimen758
+\curly@shift=\dimen759
+\height=\dimen760
+\depth=\dimen761
+\totalheight=\dimen762
+\width=\dimen763
+\starting@point=\dimen764
+\curly@height=\dimen765
+\half@curly@height=\dimen766
+\curly@shift=\dimen767
+\height=\dimen768
+\depth=\dimen769
+\totalheight=\dimen770
+\width=\dimen771
+\curly@height=\dimen772
+\half@curly@height=\dimen773
+\curly@shift=\dimen774
+\height=\dimen775
+\depth=\dimen776
+\totalheight=\dimen777
+\width=\dimen778
+\starting@point=\dimen779
+\curly@height=\dimen780
+\half@curly@height=\dimen781
+\curly@shift=\dimen782
+\height=\dimen783
+\depth=\dimen784
+\totalheight=\dimen785
+\width=\dimen786
+\curly@height=\dimen787
+\half@curly@height=\dimen788
+\curly@shift=\dimen789
+\height=\dimen790
+\depth=\dimen791
+\totalheight=\dimen792
+\width=\dimen793
+\height=\dimen794
+\depth=\dimen795
+\totalheight=\dimen796
+\width=\dimen797
+\starting@point=\dimen798
+\curly@height=\dimen799
+\half@curly@height=\dimen800
+\curly@shift=\dimen801
+\curly@height=\dimen802
+\half@curly@height=\dimen803
+\curly@shift=\dimen804
+\height=\dimen805
+\depth=\dimen806
+\totalheight=\dimen807
+\width=\dimen808
+\height=\dimen809
+\depth=\dimen810
+\totalheight=\dimen811
+\width=\dimen812
+\starting@point=\dimen813
+\curly@height=\dimen814
+\half@curly@height=\dimen815
+\curly@shift=\dimen816
+\curly@height=\dimen817
+\half@curly@height=\dimen818
+\curly@shift=\dimen819
+\height=\dimen820
+\depth=\dimen821
+\totalheight=\dimen822
+\width=\dimen823
+\starting@point=\dimen824
+\curly@height=\dimen825
+\half@curly@height=\dimen826
+\curly@shift=\dimen827
+\curly@height=\dimen828
+\half@curly@height=\dimen829
+\curly@shift=\dimen830
+\height=\dimen831
+\depth=\dimen832
+\totalheight=\dimen833
+\width=\dimen834
+\starting@point=\dimen835
+\curly@height=\dimen836
+\half@curly@height=\dimen837
+\curly@shift=\dimen838
+\curly@height=\dimen839
+\half@curly@height=\dimen840
+\curly@shift=\dimen841
+\height=\dimen842
+\depth=\dimen843
+\totalheight=\dimen844
+\width=\dimen845
+\starting@point=\dimen846
+\curly@height=\dimen847
+\half@curly@height=\dimen848
+\curly@shift=\dimen849
+\curly@height=\dimen850
+\half@curly@height=\dimen851
+\curly@shift=\dimen852
+\height=\dimen853
+\depth=\dimen854
+\totalheight=\dimen855
+\width=\dimen856
+\starting@point=\dimen857
+\curly@height=\dimen858
+\half@curly@height=\dimen859
+\curly@shift=\dimen860
+\height=\dimen861
+\depth=\dimen862
+\totalheight=\dimen863
+\width=\dimen864
+\curly@height=\dimen865
+\half@curly@height=\dimen866
+\curly@shift=\dimen867
+\height=\dimen868
+\depth=\dimen869
+\totalheight=\dimen870
+\width=\dimen871
+\starting@point=\dimen872
+\curly@height=\dimen873
+\half@curly@height=\dimen874
+\curly@shift=\dimen875
+\height=\dimen876
+\depth=\dimen877
+\totalheight=\dimen878
+\width=\dimen879
+\curly@height=\dimen880
+\half@curly@height=\dimen881
+\curly@shift=\dimen882
+\height=\dimen883
+\depth=\dimen884
+\totalheight=\dimen885
+\width=\dimen886
+\starting@point=\dimen887
+\curly@height=\dimen888
+\half@curly@height=\dimen889
+\curly@shift=\dimen890
+\height=\dimen891
+\depth=\dimen892
+\totalheight=\dimen893
+\width=\dimen894
+\curly@height=\dimen895
+\half@curly@height=\dimen896
+\curly@shift=\dimen897
+\height=\dimen898
+\depth=\dimen899
+\totalheight=\dimen900
+\width=\dimen901
+\starting@point=\dimen902
+\curly@height=\dimen903
+\half@curly@height=\dimen904
+\curly@shift=\dimen905
+\height=\dimen906
+\depth=\dimen907
+\totalheight=\dimen908
+\width=\dimen909
+\curly@height=\dimen910
+\half@curly@height=\dimen911
+\curly@shift=\dimen912
+\height=\dimen913
+\depth=\dimen914
+\totalheight=\dimen915
+\width=\dimen916
+\starting@point=\dimen917
+\curly@height=\dimen918
+\half@curly@height=\dimen919
+\curly@shift=\dimen920
+\height=\dimen921
+\depth=\dimen922
+\totalheight=\dimen923
+\width=\dimen924
+\curly@height=\dimen925
+\half@curly@height=\dimen926
+\curly@shift=\dimen927
+\height=\dimen928
+\depth=\dimen929
+\totalheight=\dimen930
+\width=\dimen931
+\height=\dimen932
+\depth=\dimen933
+\totalheight=\dimen934
+\width=\dimen935
+\starting@point=\dimen936
+\curly@height=\dimen937
+\half@curly@height=\dimen938
+\curly@shift=\dimen939
+\curly@height=\dimen940
+\half@curly@height=\dimen941
+\curly@shift=\dimen942
+\height=\dimen943
+\depth=\dimen944
+\totalheight=\dimen945
+\width=\dimen946
+\height=\dimen947
+\depth=\dimen948
+\totalheight=\dimen949
+\width=\dimen950
+\starting@point=\dimen951
+\curly@height=\dimen952
+\half@curly@height=\dimen953
+\curly@shift=\dimen954
+\curly@height=\dimen955
+\half@curly@height=\dimen956
+\curly@shift=\dimen957
+\height=\dimen958
+\depth=\dimen959
+\totalheight=\dimen960
+\width=\dimen961
+\starting@point=\dimen962
+\curly@height=\dimen963
+\half@curly@height=\dimen964
+\curly@shift=\dimen965
+\height=\dimen966
+\depth=\dimen967
+\totalheight=\dimen968
+\width=\dimen969
+ [29
+
+
+] [30] [31]
+Overfull \hbox (37.59302pt too wide) in paragraph at lines 149--149
+ [][] 
+ []
+
+\curly@height=\dimen970
+\half@curly@height=\dimen971
+\curly@shift=\dimen972
+\height=\dimen973
+\depth=\dimen974
+\totalheight=\dimen975
+\width=\dimen976
+\height=\dimen977
+\depth=\dimen978
+\totalheight=\dimen979
+\width=\dimen980
+\height=\dimen981
+\depth=\dimen982
+\totalheight=\dimen983
+\width=\dimen984
+\starting@point=\dimen985
+\curly@height=\dimen986
+\half@curly@height=\dimen987
+\curly@shift=\dimen988
+\curly@height=\dimen989
+\half@curly@height=\dimen990
+\curly@shift=\dimen991
+\height=\dimen992
+\depth=\dimen993
+\totalheight=\dimen994
+\width=\dimen995
+\starting@point=\dimen996
+\curly@height=\dimen997
+\half@curly@height=\dimen998
+\curly@shift=\dimen999
+\curly@height=\dimen1000
+\half@curly@height=\dimen1001
+\curly@shift=\dimen1002
+\height=\dimen1003
+\depth=\dimen1004
+\totalheight=\dimen1005
+\width=\dimen1006
+\starting@point=\dimen1007
+\curly@height=\dimen1008
+\half@curly@height=\dimen1009
+\curly@shift=\dimen1010
+\height=\dimen1011
+\depth=\dimen1012
+\totalheight=\dimen1013
+\width=\dimen1014
+\curly@height=\dimen1015
+\half@curly@height=\dimen1016
+\curly@shift=\dimen1017
+\height=\dimen1018
+\depth=\dimen1019
+\totalheight=\dimen1020
+\width=\dimen1021
+\height=\dimen1022
+\depth=\dimen1023
+\totalheight=\dimen1024
+\width=\dimen1025
+\height=\dimen1026
+\depth=\dimen1027
+\totalheight=\dimen1028
+\width=\dimen1029
+\starting@point=\dimen1030
+\curly@height=\dimen1031
+\half@curly@height=\dimen1032
+\curly@shift=\dimen1033
+\curly@height=\dimen1034
+\half@curly@height=\dimen1035
+\curly@shift=\dimen1036
+\height=\dimen1037
+\depth=\dimen1038
+\totalheight=\dimen1039
+\width=\dimen1040
+\starting@point=\dimen1041
+\curly@height=\dimen1042
+\half@curly@height=\dimen1043
+\curly@shift=\dimen1044
+\height=\dimen1045
+\depth=\dimen1046
+\totalheight=\dimen1047
+\width=\dimen1048
+[32]
+\curly@height=\dimen1049
+\half@curly@height=\dimen1050
+\curly@shift=\dimen1051
+\height=\dimen1052
+\depth=\dimen1053
+\totalheight=\dimen1054
+\width=\dimen1055
+\height=\dimen1056
+\depth=\dimen1057
+\totalheight=\dimen1058
+\width=\dimen1059
+\height=\dimen1060
+\depth=\dimen1061
+\totalheight=\dimen1062
+\width=\dimen1063
+\starting@point=\dimen1064
+\curly@height=\dimen1065
+\half@curly@height=\dimen1066
+\curly@shift=\dimen1067
+\curly@height=\dimen1068
+\half@curly@height=\dimen1069
+\curly@shift=\dimen1070
+\height=\dimen1071
+\depth=\dimen1072
+\totalheight=\dimen1073
+\width=\dimen1074
+\starting@point=\dimen1075
+\curly@height=\dimen1076
+\half@curly@height=\dimen1077
+\curly@shift=\dimen1078
+\curly@height=\dimen1079
+\half@curly@height=\dimen1080
+\curly@shift=\dimen1081
+\height=\dimen1082
+\depth=\dimen1083
+\totalheight=\dimen1084
+\width=\dimen1085
+\starting@point=\dimen1086
+\curly@height=\dimen1087
+\half@curly@height=\dimen1088
+\curly@shift=\dimen1089
+\height=\dimen1090
+\depth=\dimen1091
+\totalheight=\dimen1092
+\width=\dimen1093
+\curly@height=\dimen1094
+\half@curly@height=\dimen1095
+\curly@shift=\dimen1096
+\height=\dimen1097
+\depth=\dimen1098
+\totalheight=\dimen1099
+\width=\dimen1100
+\starting@point=\dimen1101
+\curly@height=\dimen1102
+\half@curly@height=\dimen1103
+\curly@shift=\dimen1104
+\curly@height=\dimen1105
+\half@curly@height=\dimen1106
+\curly@shift=\dimen1107
+\height=\dimen1108
+\depth=\dimen1109
+\totalheight=\dimen1110
+\width=\dimen1111
+\starting@point=\dimen1112
+\curly@height=\dimen1113
+\half@curly@height=\dimen1114
+\curly@shift=\dimen1115
+ [33] [34]
+\curly@height=\dimen1116
+\half@curly@height=\dimen1117
+\curly@shift=\dimen1118
+\height=\dimen1119
+\depth=\dimen1120
+\totalheight=\dimen1121
+\width=\dimen1122
+\height=\dimen1123
+\depth=\dimen1124
+\totalheight=\dimen1125
+\width=\dimen1126
+\starting@point=\dimen1127
+\curly@height=\dimen1128
+\half@curly@height=\dimen1129
+\curly@shift=\dimen1130
+\curly@height=\dimen1131
+\half@curly@height=\dimen1132
+\curly@shift=\dimen1133
+\height=\dimen1134
+\depth=\dimen1135
+\totalheight=\dimen1136
+\width=\dimen1137
+\starting@point=\dimen1138
+\curly@height=\dimen1139
+\half@curly@height=\dimen1140
+\curly@shift=\dimen1141
+\height=\dimen1142
+\depth=\dimen1143
+\totalheight=\dimen1144
+\width=\dimen1145
+\curly@height=\dimen1146
+\half@curly@height=\dimen1147
+\curly@shift=\dimen1148
+\height=\dimen1149
+\depth=\dimen1150
+\totalheight=\dimen1151
+\width=\dimen1152
+\starting@point=\dimen1153
+\curly@height=\dimen1154
+\half@curly@height=\dimen1155
+\curly@shift=\dimen1156
+\curly@height=\dimen1157
+\half@curly@height=\dimen1158
+\curly@shift=\dimen1159
+\height=\dimen1160
+\depth=\dimen1161
+\totalheight=\dimen1162
+\width=\dimen1163
+\starting@point=\dimen1164
+\curly@height=\dimen1165
+\half@curly@height=\dimen1166
+\curly@shift=\dimen1167
+\height=\dimen1168
+\depth=\dimen1169
+\totalheight=\dimen1170
+\width=\dimen1171
+\curly@height=\dimen1172
+\half@curly@height=\dimen1173
+\curly@shift=\dimen1174
+\height=\dimen1175
+\depth=\dimen1176
+\totalheight=\dimen1177
+\width=\dimen1178
+\starting@point=\dimen1179
+\curly@height=\dimen1180
+\half@curly@height=\dimen1181
+\curly@shift=\dimen1182
+) [35]
+\openout2 = `chapters/blockchain.aux'.
+
+ (./chapters/blockchain.tex
+PGFPlots: reading {data/avgblocktimes.csv}
+ [36
+
+
+]
+Underfull \hbox (badness 2020) in paragraph at lines 87--87
+[][]\OT1/lmr/m/n/10 (+20) See [][]$\OT1/lmtt/m/n/10 https : / / nemtech . githu
+b . io / concepts / harvesting . html # account-[]link-[]transaction$[][] \OT1/
+lmr/m/n/10 (+20) for
+ []
+
+[37]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+8.11}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.100 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.8.11}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.100 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.8.11}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.100 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.8.11}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.100 \begin{equation}
+                       [38] [39]
+Underfull \hbox (badness 10000) in paragraph at lines 205--207
+
+ []
+
+[40] [41] (./chapters/blockchain_sync_flowchart.tex)
+Overfull \hbox (21.31404pt too wide) in paragraph at lines 77--272
+ [] 
+ []
+
+[42] [43]) [44]
+\openout2 = `chapters/disruptor.aux'.
+
+ (./chapters/disruptor.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont O);
+(lettrine.sty)             reported on input line 8.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
+20.
+
+(/tmp/texlive/texmf-dist/tex/latex/lm/ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Missing character: There is no ( in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ; in font nullfont!
+ [45
+
+
+] [46] [47] [48]) [49]
+[50]
+\openout2 = `chapters/unconfirmed.aux'.
+
+ (./chapters/unconfirmed.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont A);
+(lettrine.sty)             reported on input line 9.
+ [51
+
+
+] [52]) [53]
+\openout2 = `chapters/partial.aux'.
+
+ (./chapters/partial.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont B);
+(lettrine.sty)             reported on input line 8.
+
+[54
+
+
+] (./chapters/partial_flowchart.tex)
+(./chapters/partial_flowchart_cosignatures.tex)) [55] [56] [57]
+\openout2 = `chapters/network.aux'.
+
+
+(./chapters/network.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont D);
+(lettrine.sty)             reported on input line 8.
+ [58
+
+
+]
+\curly@height=\dimen1183
+\half@curly@height=\dimen1184
+\curly@shift=\dimen1185
+\height=\dimen1186
+\depth=\dimen1187
+\totalheight=\dimen1188
+\width=\dimen1189
+\height=\dimen1190
+\depth=\dimen1191
+\totalheight=\dimen1192
+\width=\dimen1193
+\starting@point=\dimen1194
+\curly@height=\dimen1195
+\half@curly@height=\dimen1196
+\curly@shift=\dimen1197
+ [59] [60] [61]) [62]
+\openout2 = `chapters/reputation.aux'.
+
+ (./chapters/reputation.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont C);
+(lettrine.sty)             reported on input line 8.
+
+[63
+
+
+] [64] [65] [66]) [67]
+\openout2 = `chapters/consensus.aux'.
+
+ (./chapters/consensus.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont B);
+(lettrine.sty)             reported on input line 29.
+ [68
+
+
+] [69] [70] [71]
+[72] [73] [74]
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+[75]
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+[76]
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+) [77] [78]
+\openout2 = `chapters/timesync.aux'.
+
+ (./chapters/timesync.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont L);
+(lettrine.sty)             reported on input line 8.
+ [79
+
+
+] (./chapters/timesync_img1.tex)
+[80] [81]) [82] [83]
+\openout2 = `chapters/messaging.aux'.
+
+ (./chapters/messaging.tex
+Package lettrine.sty Info: Targeted height = 34.984pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 36.37126pt (\color {nemgreen}\font
+series {bx}\fontsize {54pt}{56pt}\selectfont B);
+(lettrine.sty)             reported on input line 15.
+ [84
+
+
+] [85] [86]) [87]
+(../_build/main.ind [88
+
+] [89
+
+]) 
+AED: lastpage setting LastPage
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
+(../_build/main.aux (../_build/preface.aux)
+(../_build/chapters/introduction.aux) (../_build/chapters/system.aux)
+(../_build/chapters/cryptography.aux) (../_build/chapters/trees.aux)
+(../_build/chapters/accounts.aux) (../_build/chapters/transactions.aux)
+(../_build/chapters/blocks.aux) (../_build/chapters/blockchain.aux)
+(../_build/chapters/disruptor.aux) (../_build/chapters/unconfirmed.aux)
+(../_build/chapters/partial.aux) (../_build/chapters/network.aux)
+(../_build/chapters/reputation.aux) (../_build/chapters/consensus.aux)
+(../_build/chapters/timesync.aux) (../_build/chapters/messaging.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: <no file>.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
+ ) 
+Here is how much of TeX's memory you used:
+ 46319 strings out of 494107
+ 1028439 string characters out of 6173979
+ 2880248 words of memory out of 5000000
+ 48957 multiletter control sequences out of 15000+600000
+ 112715 words of font info for 178 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 90i,19n,129p,964b,2602s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.33} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.32} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.31} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.30} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.29} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.28} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.27} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.26} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.25} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.24} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.23} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.22} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.21} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.20} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.19} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.18} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.17} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.16} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.15} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+{/tmp/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/tmp/texlive/texmf-d
+ist/fonts/enc/dvips/lm/lm-rm.enc}{/tmp/texlive/texmf-dist/fonts/enc/dvips/lm/lm
+-rmtt.enc}{/tmp/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/tmp/texli
+ve/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/tmp/texlive/texmf-dist/fonts/e
+nc/dvips/lm/lm-rmsc.enc}{/tmp/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn
+_c7hqsr.enc}</tmp/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT
+.pfb></tmp/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb><
+/tmp/texlive/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></tmp/texlive/texmf-di
+st/fonts/type1/public/lm/lmcsc10.pfb></tmp/texlive/texmf-dist/fonts/type1/publi
+c/lm/lmex10.pfb></tmp/texlive/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></tmp
+/texlive/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></tmp/texlive/texmf-dist/f
+onts/type1/public/lm/lmmi6.pfb></tmp/texlive/texmf-dist/fonts/type1/public/lm/l
+mmi8.pfb></tmp/texlive/texmf-dist/fonts/type1/public/lm/lmr10.pfb></tmp/texlive
+/texmf-dist/fonts/type1/public/lm/lmr12.pfb></tmp/texlive/texmf-dist/fonts/type
+1/public/lm/lmr6.pfb></tmp/texlive/texmf-dist/fonts/type1/public/lm/lmr7.pfb></
+tmp/texlive/texmf-dist/fonts/type1/public/lm/lmr8.pfb></tmp/texlive/texmf-dist/
+fonts/type1/public/lm/lmri10.pfb></tmp/texlive/texmf-dist/fonts/type1/public/lm
+/lmri12.pfb></tmp/texlive/texmf-dist/fonts/type1/public/lm/lmri8.pfb></tmp/texl
+ive/texmf-dist/fonts/type1/public/lm/lmss10.pfb></tmp/texlive/texmf-dist/fonts/
+type1/public/lm/lmss12.pfb></tmp/texlive/texmf-dist/fonts/type1/public/lm/lmssb
+x10.pfb></tmp/texlive/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></tmp/texlive
+/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></tmp/texlive/texmf-dist/fonts/type
+1/public/lm/lmsy8.pfb></tmp/texlive/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
+></tmp/texlive/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></tmp/texlive/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on ../_build/main.pdf (94 pages, 929790 bytes).
+PDF statistics:
+ 1522 PDF objects out of 1728 (max. 8388607)
+ 1381 compressed objects within 14 object streams
+ 375 named destinations out of 1000 (max. 500000)
+ 30898 words of extra memory for PDF output out of 35830 (max. 10000000)
+

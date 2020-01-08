@@ -1,0 +1,84 @@
+\BOOKMARK [1][-]{Doc-Start}{Preface}{}% 1
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 2
+\BOOKMARK [2][-]{subsection.1.1}{Variants}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{System}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Transaction Plugins}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Catapult Extensions}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Server}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Cache Database}{subsection.2.3}% 8
+\BOOKMARK [2][-]{subsection.2.4}{Broker}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.5}{Recovery}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.6}{Common Topologies}{section.2}% 11
+\BOOKMARK [1][-]{section.3}{Cryptography}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{Public/Private Key Pair}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Signing and Verification}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Batch Verification}{section.3}% 15
+\BOOKMARK [1][-]{section.4}{Trees}{}% 16
+\BOOKMARK [2][-]{subsection.4.1}{Merkle Tree}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.2}{Patricia Tree}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.3}{Merkle Patricia Tree}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.4}{Merkle Patricia Tree Proofs}{section.4}% 20
+\BOOKMARK [1][-]{section.5}{Accounts and Addresses}{}% 21
+\BOOKMARK [2][-]{subsection.5.1}{Addresses}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.2}{Address Derivation}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.3}{Address Aliases}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.4}{Intentional Address Collision}{section.5}% 25
+\BOOKMARK [1][-]{section.6}{Transactions}{}% 26
+\BOOKMARK [2][-]{subsection.6.1}{Basic Transaction}{section.6}% 27
+\BOOKMARK [2][-]{subsection.6.2}{Aggregate Transaction}{section.6}% 28
+\BOOKMARK [3][-]{subsubsection.6.2.1}{Embedded Transaction}{subsection.6.2}% 29
+\BOOKMARK [3][-]{subsubsection.6.2.2}{Cosignature}{subsection.6.2}% 30
+\BOOKMARK [3][-]{subsubsection.6.2.3}{Extended Layout}{subsection.6.2}% 31
+\BOOKMARK [1][-]{section.7}{Blocks}{}% 32
+\BOOKMARK [2][-]{subsection.7.1}{Block Fields}{section.7}% 33
+\BOOKMARK [2][-]{subsection.7.2}{Receipts}{section.7}% 34
+\BOOKMARK [3][-]{subsubsection.7.2.1}{Receipt Source}{subsection.7.2}% 35
+\BOOKMARK [3][-]{subsubsection.7.2.2}{Transaction Statement}{subsection.7.2}% 36
+\BOOKMARK [3][-]{subsubsection.7.2.3}{Resolution Statements}{subsection.7.2}% 37
+\BOOKMARK [3][-]{subsubsection.7.2.4}{Receipts Hash}{subsection.7.2}% 38
+\BOOKMARK [2][-]{subsection.7.3}{State Hash}{section.7}% 39
+\BOOKMARK [2][-]{subsection.7.4}{Extended Layout}{section.7}% 40
+\BOOKMARK [1][-]{section.8}{Blockchain}{}% 41
+\BOOKMARK [2][-]{subsection.8.1}{Block Difficulty}{section.8}% 42
+\BOOKMARK [2][-]{subsection.8.2}{Block Score}{section.8}% 43
+\BOOKMARK [2][-]{subsection.8.3}{Block Generation}{section.8}% 44
+\BOOKMARK [2][-]{subsection.8.4}{Automatic Delegated Harvester Detection}{section.8}% 45
+\BOOKMARK [2][-]{subsection.8.5}{Blockchain Synchronization}{section.8}% 46
+\BOOKMARK [2][-]{subsection.8.6}{Blockchain Processing}{section.8}% 47
+\BOOKMARK [1][-]{section.9}{Disruptor}{}% 48
+\BOOKMARK [2][-]{subsection.9.1}{Consumers}{section.9}% 49
+\BOOKMARK [3][-]{subsubsection.9.1.1}{Common Consumers}{subsection.9.1}% 50
+\BOOKMARK [3][-]{subsubsection.9.1.2}{Additional Block Consumers}{subsection.9.1}% 51
+\BOOKMARK [3][-]{subsubsection.9.1.3}{Additional Transaction Consumers}{subsection.9.1}% 52
+\BOOKMARK [1][-]{section.10}{Unconfirmed Transactions}{}% 53
+\BOOKMARK [2][-]{subsection.10.1}{Unconfirmed Transactions Cache}{section.10}% 54
+\BOOKMARK [2][-]{subsection.10.2}{Spam Throttle}{section.10}% 55
+\BOOKMARK [1][-]{section.11}{Partial Transactions}{}% 56
+\BOOKMARK [2][-]{subsection.11.1}{Partial Transaction Processing}{section.11}% 57
+\BOOKMARK [1][-]{section.12}{Network}{}% 58
+\BOOKMARK [2][-]{subsection.12.1}{Beacon Nodes}{section.12}% 59
+\BOOKMARK [2][-]{subsection.12.2}{Connection Handshake}{section.12}% 60
+\BOOKMARK [2][-]{subsection.12.3}{Packets}{section.12}% 61
+\BOOKMARK [2][-]{subsection.12.4}{Connection Types}{section.12}% 62
+\BOOKMARK [2][-]{subsection.12.5}{Peer Provenance}{section.12}% 63
+\BOOKMARK [2][-]{subsection.12.6}{Node Discovery}{section.12}% 64
+\BOOKMARK [1][-]{section.13}{Reputation}{}% 65
+\BOOKMARK [2][-]{subsection.13.1}{Connection Management}{section.13}% 66
+\BOOKMARK [2][-]{subsection.13.2}{Weight Based Node Selection}{section.13}% 67
+\BOOKMARK [2][-]{subsection.13.3}{Node Banning}{section.13}% 68
+\BOOKMARK [1][-]{section.14}{Consensus}{}% 69
+\BOOKMARK [2][-]{subsection.14.1}{Weighting Algorithm}{section.14}% 70
+\BOOKMARK [2][-]{subsection.14.2}{Sybil Attack}{section.14}% 71
+\BOOKMARK [2][-]{subsection.14.3}{Nothing at Stake Attack}{section.14}% 72
+\BOOKMARK [2][-]{subsection.14.4}{Fee Attack}{section.14}% 73
+\BOOKMARK [1][-]{section.15}{Time Synchronization}{}% 74
+\BOOKMARK [2][-]{subsection.15.1}{Gathering samples}{section.15}% 75
+\BOOKMARK [2][-]{subsection.15.2}{Applying filters to remove bad data}{section.15}% 76
+\BOOKMARK [2][-]{subsection.15.3}{Calculation of the effective offset}{section.15}% 77
+\BOOKMARK [2][-]{subsection.15.4}{Coupling and threshold}{section.15}% 78
+\BOOKMARK [1][-]{section.16}{Messaging}{}% 79
+\BOOKMARK [2][-]{subsection.16.1}{Message Channels And Topics}{section.16}% 80
+\BOOKMARK [2][-]{subsection.16.2}{Connection And Subscriptions}{section.16}% 81
+\BOOKMARK [2][-]{subsection.16.3}{Block Messages}{section.16}% 82
+\BOOKMARK [2][-]{subsection.16.4}{Transaction Messages}{section.16}% 83
+\BOOKMARK [3][-]{subsubsection.16.4.1}{Cosignature Message}{subsection.16.4}% 84
